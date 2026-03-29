@@ -1,8 +1,8 @@
-# АктобеФлудСенс - Flood Monitoring System
+# FloodSense3d - Flood Monitoring System
 
 ## Overview
 
-АктобеФлудСенс is a comprehensive real-time flood monitoring and forecasting system for Aktobe Region, Kazakhstan. It provides 3D visualization, real-time water level monitoring, ML-based forecasting, and emergency alerts for hydrological stations across major rivers.
+FloodSense3d is a comprehensive real-time flood monitoring and forecasting system for Aktobe Region, Kazakhstan. It provides 3D visualization, real-time water level monitoring, ML-based forecasting, and emergency alerts for hydrological stations across major rivers.
 
 ## Features
 
